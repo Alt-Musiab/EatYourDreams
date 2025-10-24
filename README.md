@@ -30,9 +30,9 @@ Il progetto prevede lo sviluppo di una **web app interattiva** che permetta agli
 
 ##  Autori
 - **Butt Mohammad Musiab** – Project Manager + UI/UX Designer + Graphic Designer
-- **Singh Armaan** – UI/UX Designer + Tester
-- **Tulgara Daniel** – UI/UX Designer + Tester
-- **Sora Vittorio** – Tester 
+- **Singh Armaan** – UI/UX Designer + Tester + Analista
+- **Tulgara Daniel** – UI/UX Designer + Tester + Analista
+- **Sora Vittorio** – Tester + Analista 
 
 ## Utenti Diretti
 - **Utenti registrati:** cuochi amatoriali, appassionati di cucina, food blogger  
