@@ -30,8 +30,8 @@ Il progetto prevede lo sviluppo di una **web app interattiva** che permetta agli
 
 ##  Autori
 - **Butt Mohammad Musiab** – Project Manager + UI/UX Designer + Graphic Designer
-- **Singh Armaan** – UI/UX Designer 
-- **Tulgara Daniel** – UI/UX Designer
+- **Singh Armaan** – UI/UX Designer + Tester
+- **Tulgara Daniel** – UI/UX Designer + Tester
 - **Sora Vittorio** – Tester 
 
 ## Utenti Diretti
